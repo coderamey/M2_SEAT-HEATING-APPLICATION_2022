@@ -33,7 +33,9 @@ knowledge is disabled.
 
 
 # Swot Analysis
- 
+
+ ![SWOT (1)](https://user-images.githubusercontent.com/101514346/164886528-39a91142-7e3b-4e9e-ad45-a58bd07766af.png)
+
 # Strenght 
 
 ##  Design and process
