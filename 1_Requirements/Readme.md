@@ -31,6 +31,11 @@ the solution is obtained by the algorithm itself, the user dependency is limited
 4 inputs which define the 2D outline of the heater. By this way, the necessity to the program 
 knowledge is disabled. 
 
+
+# Swot Analysis
+ 
+# Strenght 
+
 ##  Design and process
 Design knowledge has been adapted to human’s society when they accepted the products with 
 multifunctional acts in their life. By growing of modern societies, engineering design becomes more 
